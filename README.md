@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Shadiqul Hakim 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:0288d1&height=150&section=header" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0288D1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shadiqul+Hakim+👋;Data+Scientist+%26+ML+Engineer;Bangkit+Academy+ML+Graduate;IDCamp+Data+Scientist+Graduate;Python+%7C+Scikit-learn+%7C+TensorFlow" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <b>Data Scientist & ML Engineer</b> · Depok, West Java, Indonesia
@@ -56,28 +60,28 @@ Data Scientist and ML Engineer experienced in building machine learning pipeline
 
 ## 🚀 Featured Projects
 
-### 🎓 [Student Dropout Prediction](https://github.com/boboiboyapi01/student-dropout-prediction) `2025`
+### 🎓 [Student Dropout Prediction](https://student-dropout-prediction-m7mut4z7t5qgqpwjpgxszq.streamlit.app/) `2026`
 Machine learning-based early warning system using **Random Forest Classifier** to predict student dropout risk. Features an interactive **Streamlit** prototype for real-time prediction and a **Metabase** dashboard for monitoring student performance trends, financial factors, and academic metrics.
 
 `Python` `Scikit-learn` `Streamlit` `Metabase` `SQLite` `Pandas`
 
 ---
 
-### 🗑️ [Waste Classification Model](https://github.com/boboiboyapi01) `2024`
+### 🗑️ [Waste Classification Model](https://github.com/C242-PS069/ML_Model) `2024`
 Deep learning image classification model using **transfer learning with MobileNetV2** (TensorFlow/Keras) to classify waste into 7 recyclable categories, enabling automated waste sorting predictions.
 
 `Python` `TensorFlow` `Keras` `MobileNetV2` `Deep Learning`
 
 ---
 
-### 🔄 [Web Scraping ETL Pipeline](https://github.com/boboiboyapi01) `2025`
+### 🔄 [Web Scraping ETL Pipeline](https://github.com/boboiboyapi01/Web-Scraping-ETL-Pipeline) `2025`
 Automated ETL pipeline using **BeautifulSoup** for HTML parsing and **Pandas** for data cleaning, transformation, and validation to produce high-quality output for downstream analytics.
 
 `Python` `BeautifulSoup` `Pandas` `ETL`
 
 ---
 
-### 🚲 [Bike Sharing Data Dashboard](https://github.com/boboiboyapi01) `2025`
+### 🚲 [Bike Sharing Data Dashboard](https://submission-d9fqcxeccsztw8wf5xdcva.streamlit.app/) `2025`
 Interactive data dashboard using **Streamlit** and **Plotly** to perform comprehensive EDA on bike sharing datasets, uncovering usage patterns, seasonal trends, and station-level insights.
 
 `Python` `Streamlit` `Plotly` `EDA`
@@ -87,8 +91,8 @@ Interactive data dashboard using **Streamlit** and **Plotly** to perform compreh
 ### 🌐 Web Projects
 | Project | Tech | Year |
 |---|---|---|
-| [Resume Reviewer AI App](#) | React.js, Gemini API, Tailwind CSS | 2026 |
-| [Cost Tracking App](#) | React.js, Tailwind CSS, Vercel | 2025 |
+| [Resume Reviewer AI App](https://resume-reviewer-app-weld.vercel.app/) | React.js, Gemini API, Tailwind CSS | 2026 |
+| [Cost Tracking App](https://cost-tracking-app.vercel.app/) | React.js, Tailwind CSS, Vercel | 2025 |
 | [Color Palette Generator](https://color-palette-generator-five-kohl.vercel.app/) | React, Tailwind CSS, Vite | 2025 |
 
 ---
@@ -109,13 +113,10 @@ Interactive data dashboard using **Streamlit** and **Plotly** to perform compreh
 ## 🎓 Education
 
 **Bachelor of Information System** · Universitas Terbuka, Indonesia  
-`2022 – 2026 (expected)` · GPA: 3.39/4.00
+`2022 – 2026 (expected)` · GPA(Currently): 3.39/4.00
 
 *Relevant coursework: Data Science, Statistics, Data Mining, Data Analysis & Visualization, Data Warehouse, Linear Algebra*
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boboiboyapi01&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboiboyapi01&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boboiboyapi01&theme=github_dark" width="100%"/>
